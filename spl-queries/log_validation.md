@@ -3,7 +3,7 @@
 ```spl
 index=ssh_logs | stats count by event_type
 ```
-Explanation:
+## Explanation:
 Validates that SSH logs are successfully ingested and properly parsed by Splunk.
 This query confirms the presence and distribution of SSH event types, ensuring data readiness before advanced analysis.
 ## 📸 Screenshot:
