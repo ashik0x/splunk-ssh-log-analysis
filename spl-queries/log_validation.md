@@ -1,4 +1,4 @@
-## Log 
+## Vlidation of Ingested Logs
 
 ```spl
 index=ssh_logs | stats count by event_type
