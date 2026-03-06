@@ -38,9 +38,9 @@ All detection queries used for SSH security monitoring are stored in the **`spl-
 
 | Detection Use Case | File |
 |--------------------|------|
-| SSH Brute Force Detection | `spl-queries/bruteforce_detection.md` |
-| SSH Connection Without Authentication | `spl-queries/connection without authentication.md` |
-| Failed SSH Login Analysis | `spl-queries/failed_ssh_logins.md` |
-| SSH Log Validation | `spl-queries/log_validation.md` |
-| SSH Timechart Monitoring | `spl-queries/ssh_timechart_monitoring.md` |
-| Successful SSH Login Monitoring | `spl-queries/successful ssh login.md` |
+| SSH Brute Force Detection | [bruteforce_detection.md](spl-queries/bruteforce_detection.md) |
+| SSH Connection Without Authentication | [connection without authentication.md](spl-queries/connection%20without%20authentication.md) |
+| Failed SSH Login Analysis | [failed_ssh_logins.md](spl-queries/failed_ssh_logins.md) |
+| SSH Log Validation | [log_validation.md](spl-queries/log_validation.md) |
+| SSH Timechart Monitoring | [ssh_timechart_monitoring.md](spl-queries/ssh_timechart_monitoring.md) |
+| Successful SSH Login Monitoring | [successful ssh login.md](spl-queries/successful%20ssh%20login.md) |
