@@ -31,3 +31,16 @@ This project demonstrates hands-on security monitoring and threat detection usin
   - Failed vs successful logins
   - Top attacking IPs
   - SSH login trends
+
+## 🔎 SPL Detection Queries
+
+All detection queries used for SSH security monitoring are stored in the **`spl-queries/`** folder.
+
+| Detection Use Case | File |
+|--------------------|------|
+| SSH Brute Force Detection | `spl-queries/bruteforce_detection.md` |
+| SSH Connection Without Authentication | `spl-queries/connection without authentication.md` |
+| Failed SSH Login Analysis | `spl-queries/failed_ssh_logins.md` |
+| SSH Log Validation | `spl-queries/log_validation.md` |
+| SSH Timechart Monitoring | `spl-queries/ssh_timechart_monitoring.md` |
+| Successful SSH Login Monitoring | `spl-queries/successful ssh login.md` |
