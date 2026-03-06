@@ -34,7 +34,7 @@ This project demonstrates hands-on security monitoring and threat detection usin
 
 ## 🔎 SPL Detection Queries
 
-All detection queries used for SSH security monitoring are stored in the **`spl-queries/`** folder.
+All detection queries used for SSH security monitoring 
 
 | Detection Use Case | File |
 |--------------------|------|
